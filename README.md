@@ -1,5 +1,5 @@
 # yifudao-askforvacate
-奕辅导假条生成
+奕辅导外出申请
 
 仅供交流学习使用
 
