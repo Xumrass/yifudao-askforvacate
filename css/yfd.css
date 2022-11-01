@@ -1,0 +1,82 @@
+.yfd{
+    visibility: hidden;
+}
+.yfd input{
+    border: 0px;
+    position: absolute;
+}
+.yfd #nameDisp{
+    left: 19.53333333vw;
+    top: 97.86666667vw;
+    width: 18vw;
+    font-size: 4.26666667vw;
+}
+.yfd #classDisp{
+    left: 40.53333333vw;
+    top: 98.86666667vw;
+    width: 50vw;
+    font-size: 3.55554667vw;
+    color: #999;
+}
+.yfd #teacherDisp{
+    left: 19.53333333vw;
+    top: 117.33333333vw;
+    width: 50.33333333vw;
+    font-size: 4.26666667vw;
+}
+.yfd #whyDisp{
+    left: 33.06666667vw;
+    top: 55vw;
+    font-size: 3.55554667vw;
+}
+.yfd #placeDisp{
+    left: 33.06666667vw;
+    top: 64vw;
+    font-size: 3.55554667vw;
+}
+.yfd #exTimeDisp{
+    left: 26.66666667vw;
+    top: 28vw;
+    background-color: #f7f7f7;
+    font-size: 3.55554667vw;
+}
+.yfd #bcTimeDisp{
+    left: 26.66666667vw;
+    top: 33.33333333vw;
+    background-color: #f7f7f7;
+    font-size: 3.55554667vw;
+}
+.yfd #telNumDisp{
+    left: 33.06666667vw;
+    top: 83.73333333vw;
+    font-size: 3.55554667vw;
+}
+.yfd #reqTimeDisp{
+    left: 69.06666667vw;
+    top: 105.6vw;
+    color: #999;
+    width: 29.33333333vw;
+    font-size: 3.55554667vw;
+}
+.yfd #pasTimeDisp{
+    left: 69.06666667vw;
+    top: 125.33333333vw;
+    color: #999;
+    width: 29.33333333vw;
+    font-size: 3.55554667vw;
+}
+.yfd #daysDisp{
+    left: 33.06666667vw;
+    top: 46.13333333vw;
+    font-size: 3.55554667vw;
+}
+.yfd button{
+    position: absolute;
+    top: 2vw;
+    width: 8vw;
+    height: 8vw;
+    opacity: 0;
+}
+.yfd #retBtn{
+    left: 2vw;
+}

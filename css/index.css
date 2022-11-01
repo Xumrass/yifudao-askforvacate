@@ -1,0 +1,9 @@
+@import url('./states.css');
+@import url('./orgInput.css');
+@import url('./yfd.css');
+html,
+body{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

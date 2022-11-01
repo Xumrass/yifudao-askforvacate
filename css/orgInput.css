@@ -1,0 +1,29 @@
+.States input{
+    outline-style: none ;
+    border: 1px solid #ccc; 
+    padding: 3% 5%;
+    margin: 2%;
+    width: 80%;
+    font-size: 50%;
+    font-weight: 500;
+    font-family: "Microsoft soft";
+    background-color: #ffffff30;
+    box-shadow: 0px 0px 10px #ffffff30;
+    text-shadow: 0px 0px 10px #efffff30;
+    backdrop-filter: blur(8px);
+    border-radius: 20px;
+    -webkit-backdrop-filter: blur(8px);
+}
+.States button{
+    font-size: 75%;
+    border: 1px solid #ccc;
+    color: #39C5BB;
+    padding: 2% 3%;
+    margin: 4%;
+    background-color: #ffffff30;
+    box-shadow: 0px 0px 10px #ffffff30;
+    text-shadow: 0px 0px 10px #efffff30;
+    backdrop-filter: blur(8px);
+    border-radius: 20px;
+    -webkit-backdrop-filter: blur(8px);
+}

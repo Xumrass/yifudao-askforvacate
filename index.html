@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--Powered by Xumrass-->
+<html lang="ch" class="hydrated">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>奕辅导</title>
+        <link rel="stylesheet" href="./css/index.css">
+    </head>
+    <body>
+        <div class="States" id="upStates">
+            <h1 type="text" id="header">奕〇导外出申请</h1>
+            <p type="text" id="warnTex">---------------</p>
+            <p type="text" id="warnTex">本站仅供交流学习使用</p>
+            <p type="text" id="warnTex">请勿使用本网站离开学校</p>
+            <p type="text" id="warnTex">否则后果自负</p>
+            <p type="text" id="warnTex">---------------</p>
+            <p type="text" id="tex">建议使用〇信打开</p>
+            <p type="text" id="tex">Powered by Xumrass</p>
+        </div>
+        <div class="States" id="input">
+            <label><input type="text" id='name' name="name" placeholder="姓名 (张三)" required=""></label>
+            <label><input type="text" id='class' name="class" placeholder="班级 (21级计算机科学与技术1班)" required=""></label>
+            <label><input type="text" id='teacher' name="teacher" placeholder="辅导员 (（佛山校区）李四)(中文括号)"></label>
+            <label><input type="text" id='why' name="why" placeholder="原因 (快递)" required=""></label>
+            <label><input type="text" id='place' name="place" placeholder="外出地点 (菜鸟驿站)" required=""></label>
+            <button type="submit" onclick="submit()">🚀生成</button>
+        </div>
+        <div class="States" id="btmStates">
+            <p type="text" id="tex">内容可在自动生成后手动更改</p>
+            <p type="text" id="tex">'<' 返回此页</p>
+            <p type="text" id="links">🌸🌸🌸🌸🌸</p>
+            <p type="text" id="links">version: 1.0</p>
+        </div>
+        <div class="yfd" id="yfd">
+            <button id="retBtn" onclick="ret()"></button>
+            <div id="yfdDisp">
+                <input type="text" id="nameDisp">
+                <input type="text" id="classDisp">
+                <input type="text" id="teacherDisp">
+                <input type="text" id="whyDisp">
+                <input type="text" id="placeDisp">
+                <input type="text" id="exTimeDisp">
+                <input type="text" id="bcTimeDisp">
+                <input type="text" id="telNumDisp">
+                <input type="text" id="reqTimeDisp">
+                <input type="text" id="pasTimeDisp">
+                <input type="text" id="daysDisp">
+            </div>
+        </div>
+        <script language="JavaScript" src="./js/index.js"></script>
+    </body>
+</html>
+    

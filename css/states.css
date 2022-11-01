@@ -1,0 +1,40 @@
+.States{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: #ffffff30;
+    box-shadow: 0px 0px 10px #ffffff30;
+    text-shadow: 0px 0px 10px #efffff30;
+    backdrop-filter: blur(8px);
+    border-radius: 20px;
+    -webkit-backdrop-filter: blur(8px);
+}
+.States #header{
+    font-size: 200%;
+    font-weight: 750;
+    color: #39C5BB;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.States #warnTex{
+    font-size: 115%;
+    font-weight: 600;
+    color: darkred;
+    margin: auto;
+}
+.States #tex{
+    font-size: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #39C5BB;
+    margin: auto;
+    margin-top: 3%;
+}
+.States #links{
+    margin: auto;
+    margin-top: 3%;
+    font-size: 70%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom: 0;
+    color: palevioletred;
+    text-decoration: underline palevioletred;
+}
